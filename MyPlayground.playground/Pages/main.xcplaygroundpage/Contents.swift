@@ -15,8 +15,10 @@
 ### 1. Add two Doubles
 */
 // write your code here
-
-
+=begin
+ =end
+ 
+"Hello World"
 /*: Question 2
 ### 2. Add an Int to a Double
 */
@@ -46,7 +48,7 @@
 */
 // write your code here
 
-
+ddd
 /*: Question 7
 ### 7. Compare 3 and 3.5 for equality and 6.1 and 7 for inequality
 */
@@ -75,7 +77,7 @@
 ### 11. Use the return value of the function written for Question 10 in a boolean expression
 */
 // write your code here
-
+aaaa
 
 /*: Question 12
 ### 12. Write a function average_f which returns the average of three Ints as a Float
